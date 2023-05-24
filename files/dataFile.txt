@@ -1,0 +1,7 @@
+SBI Bank  || 123456 || Address1 || Branchcode01||
+
+ICICI Bank|| 789654 || Address1 || Branchcode02||
+
+AXIS Bank || 6895456 || Address1 || Branchcode03||
+
+ANDHRA Bank|| 123456 || Address1 || Branchcode04||
